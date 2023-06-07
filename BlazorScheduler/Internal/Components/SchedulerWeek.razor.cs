@@ -1,4 +1,4 @@
-﻿using BlazorScheduler.Internal.Extensions;
+﻿using Joyce.Extensions;
 using Microsoft.AspNetCore.Components;
 using System;
 using System.Collections.Generic;

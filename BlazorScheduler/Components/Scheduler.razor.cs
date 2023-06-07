@@ -1,5 +1,5 @@
 ﻿using BlazorScheduler.Internal.Components;
-using BlazorScheduler.Internal.Extensions;
+using Joyce.Extensions;
 using Microsoft.AspNetCore.Components;
 using Microsoft.JSInterop;
 using System;
